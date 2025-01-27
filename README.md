@@ -1,1 +1,1 @@
-# Lab1-PaginaWeb
+Buenas tardes profesor, yo rediseñe la pagina de Kinal pensando en que se diera la información mas concretamente, puse primero que es Kinal y sus fines, luego agregue lo que ofrece Kinal a los estudiantes, desde básicos hasta diversificado, también puse la ayuda que ofrece a los adultos en los aspectos que necesiten ayuda, y por ultimo puse los partners que esta con la fundación, siento que con este diseño es más directo todo y se entiende a primera vista que es Kinal y lo que ofrece.
